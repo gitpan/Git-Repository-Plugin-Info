@@ -1,0 +1,10 @@
+Revision history for Perl extension Git-Repository-Plugin-Ref
+
+0.02 2014-01-11T20:44:47Z
+
+    - Add is_bare.
+
+0.01 2014-01-09T04:05:27Z
+
+    - Initial release with has_ref, has_branch, and has_tag.
+
