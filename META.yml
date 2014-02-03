@@ -28,7 +28,7 @@ no_index:
 provides:
   Git::Repository::Plugin::Info:
     file: lib/Git/Repository/Plugin/Info.pm
-    version: 0.02
+    version: 0.03
 requires:
   Git::Repository: 1.14
   perl: 5.008005
@@ -36,4 +36,4 @@ resources:
   bugtracker: https://github.com/nnutter/Git-Repository-Plugin-Info/issues
   homepage: https://github.com/nnutter/Git-Repository-Plugin-Info
   repository: git://github.com/nnutter/Git-Repository-Plugin-Info.git
-version: 0.02
+version: 0.03
